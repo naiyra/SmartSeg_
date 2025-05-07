@@ -7,13 +7,6 @@ It enables data-driven teams to upload datasets, clean and encode data, select r
 
 ---
 
-## Architecture Overview
-
-SmartSeg is structured into loosely coupled modules using **Dependency Injection**, enabling each component to function independently and be developed in parallel.
-
-
----
-
 ##  Key Features
 
 - **Dataset Upload & Validation**  
