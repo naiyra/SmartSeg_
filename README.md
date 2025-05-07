@@ -3,29 +3,29 @@ This is our MsC. project in Software engineering
 
 ---
 
-## 🧪 Key Features
+##  Key Features
 
-- 🔄 **Dataset Upload & Validation**  
+- **Dataset Upload & Validation**  
   Uploads CSV datasets and validates format, types, and missing values.
 
-- 🧹 **Data Cleaning & Encoding**  
+- **Data Cleaning & Encoding**  
   Handles nulls, normalizes formats, and applies label encoding for categorical features.
 
-- 🧠 **AI-Assisted Feature Selection**  
+- **AI-Assisted Feature Selection**  
   Uses OpenAI prompts to suggest optimal features for segmentation.
 
-- 📊 **KMeans Clustering Engine**  
+- **KMeans Clustering Engine**  
   Applies Scikit-learn’s KMeans via Python integration to segment customers.
 
-- 📌 **Optimal K Estimation**  
+- **Optimal K Estimation**  
   Uses Elbow and Silhouette methods to recommend the best number of clusters.
 
-- 📋 **Readable Reporting**  
+- **Readable Reporting**  
   Converts numeric cluster outputs into readable summaries (e.g., “Budget-conscious females aged 25-34”).
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 This project is distributed across 4 developers:
 
@@ -36,9 +36,7 @@ This project is distributed across 4 developers:
 | Dev C     | `MachineLearning/` - Clustering logic and optimal K |
 | Dev D     | `Reporting/` - Interpreting and visualizing clusters |
 
----
 
-## 🚀 How to Run
 
 1. Make sure you have [.NET 7+](https://dotnet.microsoft.com/en-us/download) installed.
 2. Clone the repo:
