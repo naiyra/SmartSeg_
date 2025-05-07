@@ -1,5 +1,16 @@
 This is our MsC. project in Software engineering
 
+# SmartSeg – AI-Powered Customer Segmentation Engine
+
+**SmartSeg** is a modular, AI-assisted customer segmentation platform built with .NET.  
+It enables data-driven teams to upload datasets, clean and encode data, select relevant features, apply KMeans clustering, and generate human-readable insights — all in a fully decoupled architecture.
+
+---
+
+## Architecture Overview
+
+SmartSeg is structured into loosely coupled modules using **Dependency Injection**, enabling each component to function independently and be developed in parallel.
+
 
 ---
 
