@@ -35,8 +35,8 @@ This project is distributed across 4 developers:
 
 | Developer | Responsibility |
 |----------|----------------|
-| Dev A     | `DataHandling/` - Uploading, cleaning, encoding |
-| Dev B     | `FeatureEngineering/` - Feature selection and extraction |
+| Dev A     | `DataHandling/` - Uploading, cleaning and preprocessing |
+| Dev B     | `FeatureEngineering/` - encoding and Feature selection/extraction |
 | Dev C     | `MachineLearning/` - Clustering logic and optimal K |
 | Dev D     | `Reporting/` - Interpreting and visualizing clusters |
 
