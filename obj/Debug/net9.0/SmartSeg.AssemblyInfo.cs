@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartSeg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eb4f6152d3823e4dc2e3db0b15d4332cbbfce1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3705862eefafce45674cc178982b1aff4bd6e33")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartSeg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartSeg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
