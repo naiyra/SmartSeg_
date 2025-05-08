@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\machinelearning\\clusteredresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:machinelearning\\clusteredresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\reporting\\segmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:reporting\\segmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\reporting\\segmentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:reporting\\segmentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\reporting\\isegmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:reporting\\isegmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\core\\smartdataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:core\\smartdataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\core\\idataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:core\\idataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\machinelearning\\clusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:machinelearning\\clusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\utils\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,28 +43,8 @@
       "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:pipeline\\smartsegpipepine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\reporting\\segmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:reporting\\segmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\reporting\\isegmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:reporting\\isegmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\core\\segmentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:core\\segmentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\machinelearning\\iclusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:machinelearning\\iclusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\machinelearning\\clusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:machinelearning\\clusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\core\\clusteredresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:core\\clusteredresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\featureshandling\\featureshandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,14 +63,6 @@
       "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:datahandling\\idatacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\core\\idataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:core\\idataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\other\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:other\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|c:\\users\\naiyr\\source\\repos\\smartseg\\smartseg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B6CE72F1-A44F-4A74-A0C0-C8BD3FC90DCA}|SmartSeg.csproj|solutionrelative:smartseg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -78,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,20 +82,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SegmentSummary.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\SegmentSummary.cs",
+              "RelativeDocumentMoniker": "Reporting\\SegmentSummary.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\SegmentSummary.cs",
+              "RelativeToolTip": "Reporting\\SegmentSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:29:59.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataFrame.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\IDataFrame.cs",
+              "RelativeDocumentMoniker": "Core\\IDataFrame.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\IDataFrame.cs",
+              "RelativeToolTip": "Core\\IDataFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:14:09.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SegmentInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\SegmentInterpreter.cs",
+              "RelativeDocumentMoniker": "Reporting\\SegmentInterpreter.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\SegmentInterpreter.cs",
+              "RelativeToolTip": "Reporting\\SegmentInterpreter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:30:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISegmentInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\ISegmentInterpreter.cs",
+              "RelativeDocumentMoniker": "Reporting\\ISegmentInterpreter.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\ISegmentInterpreter.cs",
+              "RelativeToolTip": "Reporting\\ISegmentInterpreter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:30:25.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmartDataFrame.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\SmartDataFrame.cs",
+              "RelativeDocumentMoniker": "Core\\SmartDataFrame.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\SmartDataFrame.cs",
+              "RelativeToolTip": "Core\\SmartDataFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:15:43.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClusteredResult.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\MachineLearning\\ClusteredResult.cs",
+              "RelativeDocumentMoniker": "MachineLearning\\ClusteredResult.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\MachineLearning\\ClusteredResult.cs",
+              "RelativeToolTip": "MachineLearning\\ClusteredResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:25:05.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clusterer.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\MachineLearning\\Clusterer.cs",
+              "RelativeDocumentMoniker": "MachineLearning\\Clusterer.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\MachineLearning\\Clusterer.cs",
+              "RelativeToolTip": "MachineLearning\\Clusterer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:28:13.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T09:15:25.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DataLoader.cs",
               "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Utils\\DataLoader.cs",
               "RelativeDocumentMoniker": "Utils\\DataLoader.cs",
@@ -111,67 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SegmentInterpreter.cs",
-              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\SegmentInterpreter.cs",
-              "RelativeDocumentMoniker": "Reporting\\SegmentInterpreter.cs",
-              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\SegmentInterpreter.cs",
-              "RelativeToolTip": "Reporting\\SegmentInterpreter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:30:33.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ISegmentInterpreter.cs",
-              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\ISegmentInterpreter.cs",
-              "RelativeDocumentMoniker": "Reporting\\ISegmentInterpreter.cs",
-              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Reporting\\ISegmentInterpreter.cs",
-              "RelativeToolTip": "Reporting\\ISegmentInterpreter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:30:25.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SegmentSummary.cs",
-              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\SegmentSummary.cs",
-              "RelativeDocumentMoniker": "Core\\SegmentSummary.cs",
-              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\SegmentSummary.cs",
-              "RelativeToolTip": "Core\\SegmentSummary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:29:59.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Clusterer.cs",
-              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\MachineLearning\\Clusterer.cs",
-              "RelativeDocumentMoniker": "MachineLearning\\Clusterer.cs",
-              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\MachineLearning\\Clusterer.cs",
-              "RelativeToolTip": "MachineLearning\\Clusterer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:28:13.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SmartDataFrame.cs",
-              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\SmartDataFrame.cs",
-              "RelativeDocumentMoniker": "Core\\SmartDataFrame.cs",
-              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\SmartDataFrame.cs",
-              "RelativeToolTip": "Core\\SmartDataFrame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:15:43.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "SmartSegPipepine.cs",
               "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Pipeline\\SmartSegPipepine.cs",
               "RelativeDocumentMoniker": "Pipeline\\SmartSegPipepine.cs",
@@ -183,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IClusterer.cs",
               "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\MachineLearning\\IClusterer.cs",
               "RelativeDocumentMoniker": "MachineLearning\\IClusterer.cs",
@@ -191,23 +218,12 @@
               "RelativeToolTip": "MachineLearning\\IClusterer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:28:05.717Z"
+              "WhenOpened": "2025-05-08T10:28:05.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClusteredResult.cs",
-              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\ClusteredResult.cs",
-              "RelativeDocumentMoniker": "Core\\ClusteredResult.cs",
-              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\ClusteredResult.cs",
-              "RelativeToolTip": "Core\\ClusteredResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:25:05.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FeaturesHandling.cs",
               "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\FeaturesHandling\\FeaturesHandling.cs",
               "RelativeDocumentMoniker": "FeaturesHandling\\FeaturesHandling.cs",
@@ -219,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IFeaturesHandling.cs",
               "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\FeaturesHandling\\IFeaturesHandling.cs",
               "RelativeDocumentMoniker": "FeaturesHandling\\IFeaturesHandling.cs",
@@ -231,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DataCleaner.cs",
               "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\DataHandling\\DataCleaner.cs",
               "RelativeDocumentMoniker": "DataHandling\\DataCleaner.cs",
@@ -243,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IDataCleaner.cs",
               "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\DataHandling\\IDataCleaner.cs",
               "RelativeDocumentMoniker": "DataHandling\\IDataCleaner.cs",
@@ -255,31 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IDataFrame.cs",
-              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\IDataFrame.cs",
-              "RelativeDocumentMoniker": "Core\\IDataFrame.cs",
-              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Core\\IDataFrame.cs",
-              "RelativeToolTip": "Core\\IDataFrame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:14:09.848Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Other\\README.md",
-              "RelativeDocumentMoniker": "Other\\README.md",
-              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\Other\\README.md",
-              "RelativeToolTip": "Other\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-07T09:29:28.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "SmartSeg.csproj",
               "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\SmartSeg.csproj",
               "RelativeDocumentMoniker": "SmartSeg.csproj",
