@@ -1,4 +1,4 @@
-﻿using SmartSeg.Core;
+﻿using SmartSeg.MachineLearning;
 using System;
 using System.Collections.Generic;
 using System.Linq;
