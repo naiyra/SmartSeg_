@@ -384,3 +384,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+obj/Debug/net9.0/SmartSeg.AssemblyInfo.cs
+obj/Debug/net9.0/SmartSeg.AssemblyInfoInputs.cache
+.vs/ProjectEvaluation/smartseg.metadata.v9.bin
+.vs/ProjectEvaluation/smartseg.projects.v9.bin
+.vs/ProjectEvaluation/smartseg.strings.v9.bin
+.vs/SmartSeg/DesignTimeBuild/.dtbcache.v2
+.vs/SmartSeg/v17/.suo
+.vs/SmartSeg/v17/DocumentLayout.backup.json
+.vs/SmartSeg/v17/DocumentLayout.json
