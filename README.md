@@ -38,7 +38,7 @@ This project is distributed across 4 developers:
 | Dev A     | `DataHandling/` - Uploading, cleaning and preprocessing |
 | Dev B     | `FeatureHandling/` - encoding and Feature selection/extraction |
 | Dev C     | `MachineLearning/` - Clustering logic and optimal K |
-| Dev D     | `SegmentsInterpretting/` - Interpreting and visualizing clusters |
+| Dev D     | `Reporting/` - Interpreting and visualizing clusters |
 
 - Each module = its own class + interface
 
