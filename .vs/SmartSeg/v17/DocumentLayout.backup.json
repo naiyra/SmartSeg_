@@ -107,8 +107,7 @@
               "RelativeToolTip": "Utils\\DataLoader.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:16:11.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:16:11.954Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "Reporting\\SegmentInterpreter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:30:33.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:30:33.821Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "Reporting\\ISegmentInterpreter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:30:25.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:30:25.755Z"
             },
             {
               "$type": "Document",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "Core\\SegmentSummary.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:29:59.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:29:59.537Z"
             },
             {
               "$type": "Document",
@@ -159,8 +155,7 @@
               "RelativeToolTip": "MachineLearning\\Clusterer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:28:13.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:28:13.065Z"
             },
             {
               "$type": "Document",
@@ -172,8 +167,7 @@
               "RelativeToolTip": "Core\\SmartDataFrame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:15:43.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:15:43.326Z"
             },
             {
               "$type": "Document",
@@ -185,8 +179,7 @@
               "RelativeToolTip": "Pipeline\\SmartSegPipepine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:18:02.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:18:02.77Z"
             },
             {
               "$type": "Document",
@@ -198,8 +191,7 @@
               "RelativeToolTip": "MachineLearning\\IClusterer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:28:05.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:28:05.717Z"
             },
             {
               "$type": "Document",
@@ -211,8 +203,7 @@
               "RelativeToolTip": "Core\\ClusteredResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:25:05.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:25:05.419Z"
             },
             {
               "$type": "Document",
@@ -224,8 +215,7 @@
               "RelativeToolTip": "FeaturesHandling\\FeaturesHandling.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:24:13.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:24:13.758Z"
             },
             {
               "$type": "Document",
@@ -237,8 +227,7 @@
               "RelativeToolTip": "FeaturesHandling\\IFeaturesHandling.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:23:18.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:23:18.848Z"
             },
             {
               "$type": "Document",
@@ -250,8 +239,7 @@
               "RelativeToolTip": "DataHandling\\DataCleaner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T09:34:02.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T09:34:02.773Z"
             },
             {
               "$type": "Document",
@@ -263,8 +251,7 @@
               "RelativeToolTip": "DataHandling\\IDataCleaner.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T09:44:07.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T09:44:07.962Z"
             },
             {
               "$type": "Document",
@@ -276,8 +263,7 @@
               "RelativeToolTip": "Core\\IDataFrame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:14:09.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:14:09.848Z"
             },
             {
               "$type": "Document",
