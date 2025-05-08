@@ -47,4 +47,8 @@ This project is distributed across 4 developers:
    ```bash
    git clone https://github.com/your-org/SmartSeg.git
    cd SmartSeg
+3.before you start working make sure you understand these points: 
+- Define Shared Interfaces for Each Stage: you should implement modules with clear interfaces (exp. MachineLearning/ISegmenter.cs, FeatureEngineering/IFeatureSelector.cs)
+- Build a Class per Interface (exp. FeatureSelector.cs → implements IFeatureSelector)
+
 
