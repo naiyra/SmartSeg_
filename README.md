@@ -40,6 +40,15 @@ This project is distributed across 4 developers:
 | Dev C     | `MachineLearning/` - Clustering logic and optimal K |
 | Dev D     | `Reporting/` - Interpreting and visualizing clusters |
 
+- Each module = its own class + interface
+
+- Only communicate through interfaces (IDataFrame, IClusterer, etc.)
+
+- Define strict input/output contracts
+
+- No module knows how the others work internally
+
+
 
 
 1. Make sure you have [.NET 7+](https://dotnet.microsoft.com/en-us/download) installed.
