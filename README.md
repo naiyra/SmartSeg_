@@ -36,9 +36,9 @@ This project is distributed across 4 developers:
 | Developer | Responsibility |
 |----------|----------------|
 | Dev A     | `DataHandling/` - Uploading, cleaning and preprocessing |
-| Dev B     | `FeatureEngineering/` - encoding and Feature selection/extraction |
+| Dev B     | `FeatureHandling/` - encoding and Feature selection/extraction |
 | Dev C     | `MachineLearning/` - Clustering logic and optimal K |
-| Dev D     | `Reporting/` - Interpreting and visualizing clusters |
+| Dev D     | `SegmentsInterpretting/` - Interpreting and visualizing clusters |
 
 - Each module = its own class + interface
 
@@ -57,7 +57,7 @@ This project is distributed across 4 developers:
    git clone https://github.com/your-org/SmartSeg.git
    cd SmartSeg
 3.before you start working make sure you understand these points: 
-- Define Shared Interfaces for Each Stage: you should implement modules with clear interfaces (exp. MachineLearning/ISegmenter.cs, FeatureEngineering/IFeatureSelector.cs)
+- Define Shared Interfaces for Each Stage: you should implement modules with clear interfaces (exp. Segmenter/ISegmenter.cs, FeatureHandling/IFeatureHandling.cs)
 - Build a Class per Interface (exp. FeatureSelector.cs → implements IFeatureSelector)
 
 
