@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SmartSeg.Core;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,11 @@ using System.Threading.Tasks;
 
 namespace SmartSeg.FeaturesHandling
 {
-    class FeaturesExtractor
+    public interface IFeatureEngineer
     {
+        IDataFrame Transform(IDataFrame cleanedInput);
     }
+
+   
+
 }

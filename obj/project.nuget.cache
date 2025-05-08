@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kJvWKZ8Y/Sk=",
+  "dgSpecHash": "zXod+lQ0ob8=",
   "success": true,
   "projectFilePath": "C:\\Users\\naiyr\\source\\repos\\SmartSeg\\SmartSeg.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\naiyr\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

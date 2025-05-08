@@ -8,9 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Core\Models\" />
-    <Folder Include="Core\Pipeline\" />
-    <Folder Include="Utils\" />
+    <PackageReference Include="CsvHelper" Version="33.0.1" />
   </ItemGroup>
 
 </Project>

@@ -13,3 +13,6 @@ C:\Users\naiyr\source\repos\SmartSeg\obj\Debug\net9.0\refint\SmartSeg.dll
 C:\Users\naiyr\source\repos\SmartSeg\obj\Debug\net9.0\SmartSeg.pdb
 C:\Users\naiyr\source\repos\SmartSeg\obj\Debug\net9.0\SmartSeg.genruntimeconfig.cache
 C:\Users\naiyr\source\repos\SmartSeg\obj\Debug\net9.0\ref\SmartSeg.dll
+C:\Users\naiyr\source\repos\SmartSeg\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\naiyr\source\repos\SmartSeg\obj\Debug\net9.0\SmartSeg.csproj.AssemblyReference.cache
+C:\Users\naiyr\source\repos\SmartSeg\obj\Debug\net9.0\SmartSeg.csproj.Up2Date
