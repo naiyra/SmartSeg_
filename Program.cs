@@ -13,7 +13,7 @@ public class MainClass
 
         var pipeline = new SmartSegPipeline(
             new DataCleaner(),
-            new FeatureEngineer(),
+            new FeaturesHandling(),
             new Clusterer(),
             new SegmentInterpreter()
         );

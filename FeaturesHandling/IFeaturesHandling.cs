@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SmartSeg.FeaturesHandling
 {
-    public interface IFeatureEngineer
+    public interface IFeaturesHandling
     {
         IDataFrame Transform(IDataFrame cleanedInput);
     }
