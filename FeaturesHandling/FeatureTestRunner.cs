@@ -1,12 +1,8 @@
 ﻿
-
-namespace SmartSeg.FeatureHandling
+using SmartSeg.Core;
+using System.Data;
+namespace SmartSeg.FeaturesHandling
 {
-    using SmartSeg.Core;
-    using SmartSeg.FeaturesHandling;
-    using System;
-    using System.Data;
-  
 
     public static class FeatureTestRunner
     {

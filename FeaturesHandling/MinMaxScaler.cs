@@ -1,6 +1,7 @@
-﻿namespace SmartSeg.FeatureHandling
+﻿using SmartSeg.Core;
+namespace SmartSeg.FeatureHandling
 {
-    using SmartSeg.Core;
+    
 
     public class MinMaxScaler
     {
