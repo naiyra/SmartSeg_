@@ -1,7 +1,7 @@
-﻿namespace SmartSeg.FeatureHandling
+﻿using SmartSeg.Core;
+namespace SmartSeg.FeatureHandling
 {
-    using SmartSeg.Core;
-
+    
     public class FeatureTypeDetector
     {
         public (List<string> numericCols, List<string> categoricalCols) Detect(IDataFrame df)
@@ -13,7 +13,7 @@
             {
                 var values = df.GetColumnValues(col)
                                .Where(v => v != null)
-                               .Select(v => v.ToString());
+                               .Select(v => v.ToString()); //converts all non null values to strings
 
                 if (values.All(v => double.TryParse(v, out _)))
                 {

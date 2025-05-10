@@ -3,6 +3,8 @@ using SmartSeg.DataHandling;
 using SmartSeg.FeaturesHandling;
 using SmartSeg.MachineLearning;
 using SmartSeg.Reporting;
+using System.Diagnostics.Metrics;
+using System.Text.RegularExpressions;
 
 public class SmartSegPipeline
 {
@@ -14,14 +16,14 @@ public class SmartSegPipeline
     private FeaturesHandling featuresHandling;
     private SegmentInterpreter segmentInterpreter;
 
-    public SmartSegPipeline(IDataCleaner cleaner, IFeaturesHandling handling, IClusterer clusterer, ISegmentInterpreter interpreter)
+    /*public SmartSegPipeline(IDataCleaner cleaner, IFeaturesHandling handling, IClusterer clusterer, ISegmentInterpreter interpreter)
     {
         this.cleaner = cleaner;
         this.handling = handling;
        this.clusterer = clusterer;
        this.interpreter = interpreter;
     }
-
+    */
     public SmartSegPipeline(DataCleaner dataCleaner, FeaturesHandling featuresHandling, Clusterer clusterer, SegmentInterpreter segmentInterpreter)
     {
         this.dataCleaner = dataCleaner;
@@ -32,7 +34,7 @@ public class SmartSegPipeline
 
     public void Run(IDataFrame rawData)
     {
-       // var cleaned = cleaner.Clean(rawData);
+        // var cleaned = cleaner.Clean(rawData);
         //var features = handling.Transform(cleaned);
         //var clustered = clusterer.Cluster(features);
         // var segments = interpreter.Interpret(clustered);
@@ -43,5 +45,15 @@ public class SmartSegPipeline
             foreach (var stat in segment.Stats)
                 Console.WriteLine($"  {stat.Key}: {stat.Value}");
         }*/
+
+      /*  Cluster 1: Young Low-Income Customers
+            Average Age: 25
+            Average Income: 4000
+
+          Cluster 2: Mature High-Income Customers
+            Average Age: 45
+            Average Income: 12000
+      */
+
     }
 }

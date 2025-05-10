@@ -1,8 +1,7 @@
 ﻿
+using SmartSeg.Core;
 namespace SmartSeg.FeatureHandling
 {
-
-    using SmartSeg.Core;
     public class LabelEncoder
     {
         private readonly Dictionary<string, Dictionary<string, int>> encoders = new();
@@ -11,11 +10,20 @@ namespace SmartSeg.FeatureHandling
         {
             foreach (var col in categoricalCols)
             {
-                var values = df.GetColumnValues(col).Select(v => v?.ToString()).ToList();
+                //var values = df.GetColumnValues(col).Select(v => v?.ToString()).ToList();
+                //var unique = values.Distinct().ToList();
+
+                //var map = unique.Select((val, idx) => new { val, idx })
+                // .ToDictionary(x => x.val, x => x.idx);
+                var values = df.GetColumnValues(col)
+               .Select(v => v?.ToString() ?? "UNKNOWN") 
+               .ToList();
+
                 var unique = values.Distinct().ToList();
 
                 var map = unique.Select((val, idx) => new { val, idx })
-                                .ToDictionary(x => x.val, x => x.idx);
+                                .ToDictionary(x => x.val, x => x.idx); 
+
 
                 encoders[col] = map;
 
