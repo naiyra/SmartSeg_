@@ -25,8 +25,8 @@ It enables data-driven teams to upload datasets, clean and encode data, select r
   Applies Scikit-learn’s KMeans via Python integration to segment customers.
 
 - **Readable Reporting**  
-  - Converts numeric cluster outputs into readable summaries (e.g., “Budget-conscious females aged 25-34”).
-  - It takes the clustered data and analyzes each cluster separately to find patterns and summaries.
+  Converts numeric cluster outputs into readable summaries (e.g., “Budget-conscious females aged 25-34”).
+  It takes the clustered data and analyzes each cluster separately to find patterns and summaries.
 
 ---
 
