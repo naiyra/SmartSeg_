@@ -12,17 +12,17 @@ It enables data-driven teams to upload datasets, clean and encode data, select r
 - **Dataset Upload & Validation**  
   Uploads CSV datasets and validates format, types, and missing values.
 
-- **Data Cleaning & Encoding**  
-  Handles nulls, normalizes formats, and applies label encoding for categorical features.
+- **Data Cleaning**  
+  Handles nulls, cleans structural problems, fix duplicates, etc...
 
-- **AI-Assisted Feature Selection**  
-  Uses OpenAI prompts to suggest optimal features for segmentation.
-
-- **KMeans Clustering Engine**  
-  Applies Scikit-learn’s KMeans via Python integration to segment customers.
+- **Feature Engineering and Selection**  
+  Uses Feature engineering methods to identify the optimal features for the segmentation algorithm like normalizing formats, and appling label encoding for categorical features.
 
 - **Optimal K Estimation**  
-  Uses Elbow and Silhouette methods to recommend the best number of clusters.
+  Uses Elbow to recommend the best number of clusters.
+  
+- **KMeans Clustering Engine**  
+  Applies Scikit-learn’s KMeans via Python integration to segment customers.
 
 - **Readable Reporting**  
   Converts numeric cluster outputs into readable summaries (e.g., “Budget-conscious females aged 25-34”).
